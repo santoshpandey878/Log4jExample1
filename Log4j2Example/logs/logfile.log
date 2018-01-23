@@ -1,0 +1,21 @@
+DEBUG | 2018-01-22 05:22:16 | [main] log4j.Log4jExample (Log4jExample.java:12) - This Will Be Printed On Debug
+INFO  | 2018-01-22 05:22:16 | [main] log4j.Log4jExample (Log4jExample.java:13) - This Will Be Printed On Info
+WARN  | 2018-01-22 05:22:16 | [main] log4j.Log4jExample (Log4jExample.java:14) - This Will Be Printed On Warn
+ERROR | 2018-01-22 05:22:16 | [main] log4j.Log4jExample (Log4jExample.java:15) - This Will Be Printed On Error
+FATAL | 2018-01-22 05:22:16 | [main] log4j.Log4jExample (Log4jExample.java:16) - This Will Be Printed On Fatal
+INFO  | 2018-01-22 05:22:16 | [main] log4j.Log4jExample (Log4jExample.java:18) - Appending string: Hello, World.
+INFO  | 2018-01-22 05:24:15 | [main] log4j.Log4jExample (Log4jExample.java:13) - This Will Be Printed On Info
+WARN  | 2018-01-22 05:24:15 | [main] log4j.Log4jExample (Log4jExample.java:14) - This Will Be Printed On Warn
+ERROR | 2018-01-22 05:24:15 | [main] log4j.Log4jExample (Log4jExample.java:15) - This Will Be Printed On Error
+FATAL | 2018-01-22 05:24:15 | [main] log4j.Log4jExample (Log4jExample.java:16) - This Will Be Printed On Fatal
+INFO  | 2018-01-22 05:24:15 | [main] log4j.Log4jExample (Log4jExample.java:18) - Appending string: Hello, World.
+INFO  | 2018-01-22 05:26:07 | [main] log4j.Log4jExample (Log4jExample.java:14) - This Will Be Printed On Info
+WARN  | 2018-01-22 05:26:07 | [main] log4j.Log4jExample (Log4jExample.java:15) - This Will Be Printed On Warn
+ERROR | 2018-01-22 05:26:07 | [main] log4j.Log4jExample (Log4jExample.java:16) - This Will Be Printed On Error
+FATAL | 2018-01-22 05:26:07 | [main] log4j.Log4jExample (Log4jExample.java:17) - This Will Be Printed On Fatal
+INFO  | 2018-01-22 05:26:07 | [main] log4j.Log4jExample (Log4jExample.java:19) - Appending string: Hello, World.
+INFO  | 2018-01-22 05:27:02 | [main] log4j.Log4jExample (Log4jExample.java:14) - This Will Be Printed On Info
+WARN  | 2018-01-22 05:27:02 | [main] log4j.Log4jExample (Log4jExample.java:15) - This Will Be Printed On Warn
+ERROR | 2018-01-22 05:27:02 | [main] log4j.Log4jExample (Log4jExample.java:16) - This Will Be Printed On Error
+FATAL | 2018-01-22 05:27:02 | [main] log4j.Log4jExample (Log4jExample.java:17) - This Will Be Printed On Fatal
+INFO  | 2018-01-22 05:27:02 | [main] log4j.Log4jExample (Log4jExample.java:19) - Appending string: Hello, World.
